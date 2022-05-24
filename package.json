@@ -2,7 +2,7 @@
   "name": "@bidoubiwa/vuepress-plugin-element-tabs",
   "version": "0.2.9",
   "description": "Vuepress plugin - Tabs Container for Vuepress",
-  "author": "superbiger",
+  "author": "bidoubiwa",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
