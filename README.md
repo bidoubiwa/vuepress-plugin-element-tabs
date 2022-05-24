@@ -6,6 +6,8 @@
 
 Vuepress plugin - markdown custom container to display content in tabs from [Element UI](https://github.com/ElemeFE/element)
 
+⚠️ This is a fork of kaifun [vuepress-plugin-tabs](https://github.com/Kaifun/vuepress-plugin-tabs), unfortunately it is not maintained anymore. All credits goes to him for this wonderful plugin.
+
 ## Docs
 > https://superbiger.github.io/vuepress-plugin-tabs
 
