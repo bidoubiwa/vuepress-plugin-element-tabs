@@ -7,12 +7,11 @@
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs",
-    "ghpages": "gh-pages -d docs/.vuepress/dist",
     "release": "release-it"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superbiger/vuepress-plugin-tabs.git"
+    "url": "git+https://github.com/bidoubiwa/vuepress-plugin-element-tabs.git"
   },
   "keywords": [
     "vuepress-plugin",
@@ -20,11 +19,10 @@
     "component"
   ],
   "bugs": {
-    "url": "https://github.com/superbiger/vuepress-plugin-tabs/issues"
+    "url": "https://github.com/bidoubiwa/vuepress-plugin-element-tabs/issues"
   },
-  "homepage": "https://github.com/superbiger/vuepress-plugin-tabs#readme",
+  "homepage": "https://github.com/bidoubiwa/vuepress-plugin-element-tabs/blob/main/README.md",
   "devDependencies": {
-    "gh-pages": "^2.0.1",
     "release-it": "^10.3.1",
     "vuepress": "^1.0.1"
   },
