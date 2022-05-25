@@ -15,14 +15,14 @@ Vuepress plugin - markdown custom container to display content in tabs from [Ele
 > This plugin requires VuePress >= 1.0.0
 
 ```shell
-yarn add vuepress-plugin-element-tabs -D
+yarn add @bidoubiwa/vuepress-plugin-element-tabs -D
 ```
 
 ```javascript
 // .vuepress/config.js
 module.exports = {
   plugins: [
-    'vuepress-plugin-element-tabs'
+    '@bidoubiwa/vuepress-plugin-element-tabs'
   ]
 }
 ```
